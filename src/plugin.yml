@@ -1,0 +1,6 @@
+name: DropRemover
+main: com.remover.DropRemover
+author: Mifort
+version: 1.0.0
+commands:
+       dr:
